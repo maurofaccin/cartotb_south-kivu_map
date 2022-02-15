@@ -81,7 +81,7 @@ def main():
     with open("data/mission_locations.geojson", "rt") as fin:
         missions = json.load(fin)
 
-    for name, mission in missions.items():
+    for mission in missions:
         if mission["pos"] > 0 or mission["neg"] > 0:
             ax.scatter(
                 [mission["center"][1]],
@@ -95,7 +95,7 @@ def main():
             ax.text(
                 mission["center"][1] + 0.03,
                 mission["center"][0],
-                name,
+                mission["name"],
                 transform=ccrs.PlateCarree(),
                 fontdict={"fontfamily": "Fira Sans Compressed", "fontsize": 16},
             )
