@@ -6,13 +6,11 @@ import json
 
 # import analysis_paper as analyse
 import cartopy.crs as ccrs
-import cartopy.io.img_tiles as cimgt
 import matplotlib.pyplot as plt
 import shapely
 from cartopy import feature as cfeature
 from matplotlib import colors
 from matplotlib.patches import Patch
-from matplotlib.transforms import offset_copy
 
 plt.rcParams["font.family"] = "Fira Sans Compressed"
 
