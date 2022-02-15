@@ -1,5 +1,6 @@
 [
   {
+    "pos": 0,
     "neg": 0,
     "risk": 4.351665106624509,
     "center": [
@@ -9,6 +10,7 @@
     "name": "Kabamba"
   },
   {
+    "pos": 19,
     "neg": 110,
     "risk": 19.243080271729852,
     "center": [
@@ -18,6 +20,7 @@
     "name": "Lugushwa"
   },
   {
+    "pos": 0,
     "neg": 0,
     "risk": 3.4824916518892834,
     "center": [
@@ -27,6 +30,7 @@
     "name": "Kamakombe"
   },
   {
+    "pos": 9,
     "neg": 0,
     "risk": 28.974976289038565,
     "center": [
@@ -36,6 +40,7 @@
     "name": "Matili"
   },
   {
+    "pos": 0,
     "neg": 0,
     "risk": 0.38039080760506694,
     "center": [
@@ -45,6 +50,7 @@
     "name": "Walungu"
   },
   {
+    "pos": 4,
     "neg": 52,
     "risk": 2.468023144669199,
     "center": [
@@ -54,6 +60,7 @@
     "name": "Bukavu"
   },
   {
+    "pos": 29,
     "neg": 0,
     "risk": 23.94182185503094,
     "center": [
@@ -63,6 +70,7 @@
     "name": "Shabunda"
   },
   {
+    "pos": 6,
     "neg": 115,
     "risk": 5.123173872697495,
     "center": [
@@ -72,6 +80,7 @@
     "name": "Katanga"
   },
   {
+    "pos": 19,
     "neg": 0,
     "risk": 25.807712080927917,
     "center": [
@@ -81,6 +90,7 @@
     "name": "Lugungu-Katchungu"
   },
   {
+    "pos": 0,
     "neg": 0,
     "risk": 0.5624146933908816,
     "center": [
@@ -90,6 +100,7 @@
     "name": "Birava"
   },
   {
+    "pos": 0,
     "neg": 39,
     "risk": 1.4468425231509738,
     "center": [
@@ -99,6 +110,7 @@
     "name": "Sange"
   },
   {
+    "pos": 0,
     "neg": 0,
     "risk": 0.44373932044940345,
     "center": [
@@ -108,6 +120,7 @@
     "name": "Bwindi"
   },
   {
+    "pos": 1,
     "neg": 78,
     "risk": 6.78170915904798,
     "center": [
@@ -117,6 +130,7 @@
     "name": "Uvira"
   },
   {
+    "pos": 15,
     "neg": 120,
     "risk": 15.471874867019459,
     "center": [
@@ -126,6 +140,7 @@
     "name": "Kamituga"
   },
   {
+    "pos": 0,
     "neg": 0,
     "risk": 38.51630764196415,
     "center": [
@@ -135,6 +150,7 @@
     "name": "Kikamba"
   },
   {
+    "pos": 8,
     "neg": 50,
     "risk": 4.201855595810825,
     "center": [
@@ -144,6 +160,7 @@
     "name": "Elila"
   },
   {
+    "pos": 2,
     "neg": 28,
     "risk": 1.1457990265525548,
     "center": [
